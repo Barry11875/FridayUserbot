@@ -39,7 +39,7 @@ $ python(3) string_gen.py
 ### Self-hosting (For Devs) ⚔
 ```sh
 # Install Git First // (Else You Can Download And Upload to Your Local Server)
-$ git clone https://github.com/DevsExpo/FridayUserbot
+$ git clone https://github.com/Sara Lance-The White Canary/FridayUserbot
 # Open Git Cloned File
 $ cd FridayUserbot
 # Install All Requirements 
